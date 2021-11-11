@@ -1,4 +1,4 @@
-module kevinmillerfw/goheif
+module github.com/kevinmillerfw/goheif
 
 go 1.17
 
