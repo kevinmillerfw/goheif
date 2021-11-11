@@ -1,5 +1,3 @@
-github.com/jdeng/goheif v0.0.0-20200323230657-a0d6a8b3e68f h1:jYkcRYsnnvPF07yn4XJx3k8duM4KDw3QYB3p8bUrk80=
-github.com/jdeng/goheif v0.0.0-20200323230657-a0d6a8b3e68f/go.mod h1:G7IyA3/eR9IFmUIPdyP3c0l4ZaqEvXAk876WfaQ8plc=
 github.com/kevinmillerfw/goheif v0.0.0-20211111225508-f3593404e318 h1:L5PAiv2NI8Qv7EWvKQG6ECt1z1ap8NAa3k/6zXNlAes=
 github.com/kevinmillerfw/goheif v0.0.0-20211111225508-f3593404e318/go.mod h1:1m2VtYJs4V8wumCEHCDH8hDdMNOlLfW9+ixBPoyHFu4=
 github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd h1:CmH9+J6ZSsIjUK3dcGsnCnO41eRBOnY12zwkn5qVwgc=
