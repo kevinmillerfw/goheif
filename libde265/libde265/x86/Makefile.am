@@ -11,7 +11,7 @@ endif
 
 # SSE4 specific functions
 
-libde265_x86_sse_la_CXXFLAGS = -msse4.1 -I$(top_srcdir) -I$(top_srcdir)/libde265 $(CFLAG_VISIBILITY)
+libde265_x86_sse_la_CXXFLAGS = -I$(top_srcdir) -I$(top_srcdir)/libde265 $(CFLAG_VISIBILITY)
 libde265_x86_sse_la_SOURCES = sse-motion.cc sse-motion.h sse-dct.h sse-dct.cc
 
 if HAVE_VISIBILITY

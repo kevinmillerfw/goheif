@@ -12,10 +12,6 @@ add_library(x86_sse OBJECT ${x86_sse_sources})
 
 set(sse_flags "")
 
-if(NOT MSVC)
-  set(sse_flags "${sse_flags} -msse4.1")
-endif()
-
 set(X86_OBJECTS $<TARGET_OBJECTS:x86> $<TARGET_OBJECTS:x86_sse> PARENT_SCOPE)
 
 if(CMAKE_SYSTEM_PROCESSOR STREQUAL "x86_64")
